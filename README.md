@@ -13,3 +13,5 @@ This is the Image of Knime Workflow.
 Also used multiple datasets that include many movies around the world and one of the datasets is for the Indian Movies. 
 
 We have done this Prediction based on Actors, Movies they have done, previous movie revenue, and Ratings based on their performance. 
+
+This Project was made as a Group project.
