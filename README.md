@@ -1,4 +1,4 @@
-# Movie_Revenuce_Prediction
+# Movie_Revenue_Prediction
 
 Created a project on Movie Revenue Prediction based on multiple datasets. 
 
